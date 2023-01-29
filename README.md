@@ -12,10 +12,7 @@ This can help reduce other problems such as air and environment pollution.
 3. According to the UNEP report for 2021 called UN Food Waste Index Report 2021, India wastes as much as 50 kilos of food per person per year. That amounts to a staggering 68,760,163 metric tonnes of household food waste per year.
 # Solution
 We have created an app named "RRR" which stands for Reuse, Reduce and Relish. It's purpose is pretty simple. It can be installed on an individual's smart phone, this acts as the bridge between factories and customers. This app aims to make use of the food waste generated in the most effecient manner. Also the data collected from the app can be used to predict the consumpsion pattern or future sales which in turn can be utilised for adequate production of food using ML model in the future.
-#Future Scope
-1. Compost for Plants
-Minimize Compaction.
-Improve drainage of soil.
-Useful for aeration of soil.
-Increases the nutrient holding capacity.
-Carbon-rich and nitrogen-rich helps
+# Future Scope
+1) Compost for Plants: Minimize Compaction, Improve drainage of soil, Useful for aeration of soil, Increases the nutrient holding capacity, Carbon-rich and nitrogen-rich helps in better yield etc.
+2) Energy as Electricity: More fat, oil, grese products gives more biogas and hence more energy, 100 tonnes of waste can power 800-1400 homes etc.
+
